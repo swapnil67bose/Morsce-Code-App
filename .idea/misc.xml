@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/S  D J/AndroidStudioProjects/MORSE CODE/app/src/main/res/drawable/border.xml" value="0.1645" />
+        <entry key="..\:/Users/S  D J/AndroidStudioProjects/MORSE CODE/app/src/main/res/drawable/ic_attendance_recap.xml" value="0.1645" />
+        <entry key="..\:/Users/S  D J/AndroidStudioProjects/MORSE CODE/app/src/main/res/drawable/ic_bg_topheader.xml" value="0.175" />
+        <entry key="..\:/Users/S  D J/AndroidStudioProjects/MORSE CODE/app/src/main/res/drawable/ic_gpa_reult.xml" value="0.1645" />
+        <entry key="..\:/Users/S  D J/AndroidStudioProjects/MORSE CODE/app/src/main/res/drawable/ic_profile.xml" value="0.1645" />
+        <entry key="..\:/Users/S  D J/AndroidStudioProjects/MORSE CODE/app/src/main/res/drawable/slider_dot_selector.xml" value="0.1325" />
+        <entry key="..\:/Users/S  D J/AndroidStudioProjects/MORSE CODE/app/src/main/res/font/autour_one.xml" value="0.234375" />
+        <entry key="..\:/Users/S  D J/AndroidStudioProjects/MORSE CODE/app/src/main/res/layout/activity_computer.xml" value="0.1" />
+        <entry key="..\:/Users/S  D J/AndroidStudioProjects/MORSE CODE/app/src/main/res/layout/activity_converter.xml" value="0.25" />
+        <entry key="..\:/Users/S  D J/AndroidStudioProjects/MORSE CODE/app/src/main/res/layout/activity_feedback.xml" value="0.25" />
+        <entry key="..\:/Users/S  D J/AndroidStudioProjects/MORSE CODE/app/src/main/res/layout/activity_learn.xml" value="0.2" />
+        <entry key="..\:/Users/S  D J/AndroidStudioProjects/MORSE CODE/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/S  D J/AndroidStudioProjects/MORSE CODE/app/src/main/res/layout/activity_quiz.xml" value="0.25" />
+        <entry key="..\:/Users/S  D J/AndroidStudioProjects/MORSE CODE/app/src/main/res/layout/activity_splash.xml" value="0.18" />
+        <entry key="..\:/Users/S  D J/AndroidStudioProjects/MORSE CODE/app/src/main/res/layout/fragment_slider_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/S  D J/AndroidStudioProjects/home_page/app/src/main/res/drawable/ic_bg_topheader.xml" value="0.1325" />
+        <entry key="..\:/Users/S  D J/AndroidStudioProjects/home_page/app/src/main/res/layout/activity_civil.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/S  D J/AndroidStudioProjects/home_page/app/src/main/res/layout/activity_computer.xml" value="0.1" />
+        <entry key="..\:/Users/S  D J/AndroidStudioProjects/home_page/app/src/main/res/layout/activity_electrical.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/S  D J/AndroidStudioProjects/home_page/app/src/main/res/layout/activity_information.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/S  D J/AndroidStudioProjects/home_page/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/S  D J/AndroidStudioProjects/home_page/app/src/main/res/layout/activity_mechanical.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/S  D J/AndroidStudioProjects/home_page/app/src/main/res/layout/activity_quiz.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,142 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Morse Code</string>
+    <string name="start">start quiz</string>
+    <string name="landing_screen_text">Lets put your knowledge to the test</string>
+    <string name="get_started">This is International Morse code</string>
+    <string name="next">next</string>
+    <string name="score">Score 0/15</string>
+    <string name="question_number">1/15 Question</string>
+
+    <string name="question_1">Encode the word below:
+       <br>    JAVA
+      </br></string>
+    <string name="question1_A">.--- .- ...- .- -.-. </string>
+    <string name="question1_B">.--- .- ...- .- </string>
+    <string name="question1_C">.--- ...- -- </string>
+    <string name="question1_D">-.. ...- -- </string>
+    <string name="answer_1">.--- .- ...- .- </string>
+
+
+    <string name="question_2">Encode the word below:
+        <br>PYTHON \n
+      </br></string>
+    <string name="question_2A">.--. -.-- - .... --- -. </string>
+    <string name="question_2B">... .-- .. ..-. - </string>
+    <string name="question_2C">.--. .... .--. </string>
+    <string name="question_2D">.--- .- ...- .- </string>
+    <string name="answer_2">.--. -.-- - .... --- -. </string>
+
+
+    <string name="question_3">Encode the below letter:
+        <br>     P     \n
+      </br></string>
+    <string name="question_3A">..-.</string>
+    <string name="question_3B">.-</string>
+    <string name="question_3C">.--.</string>
+    <string name="question_3D">-.</string>
+    <string name="answer_3">.--.</string>
+
+    <string name="question_4">Encode the word below:
+        <br>MORSE   \n
+      </br></string>
+    <string name="question_4A">-- --- .-. ... .</string>
+    <string name="question_4B">-- .. .-.. .. - .- .-. -.--</string>
+    <string name="question_4C">-- .- -.. .- --</string>
+    <string name="question_4D">.--- -.- -..</string>
+    <string name="answer_4">-- --- .-. ... .</string>
+
+    <string name="question_5">Encode the letter below:
+        <br>S \n
+      </br></string>
+    <string name="question_5A">--</string>
+    <string name="question_5B">---</string>
+    <string name="question_5C">-.-</string>
+    <string name="question_5D">...</string>
+    <string name="answer_5">...</string>
+
+    <string name="question_6">What is the standard emergency signal?</string>
+    <string name="question_6A">.  -  .</string>
+    <string name="question_6B">..   --   ..</string>
+    <string name="question_6C">...   ---   ...</string>
+    <string name="question_6D">....   ----   ....</string>
+    <string name="answer_6">...   ---   ...</string>
+
+    <string name="question_7">What year was Morse Code invented?</string>
+<string name="question_7A">1852</string>
+    <string name="question_7B">1836</string>
+    <string name="question_7C">1893</string>
+    <string name="question_7D">5555 bc</string>
+    <string name="answer_7">1852</string>
+
+    <string name="question_8">Encode the given Morse:    ...  ..-   --   --   .  .-.</string>
+    <string name="question_8A">Summer</string>
+    <string name="question_8B">Autumn</string>
+    <string name="question_8C">Winter</string>
+    <string name="question_8D">Spring</string>
+    <string name="answer_8">Summer</string>
+
+    <string name="question_9">Encode the Morse below:
+     <br>• — —
+</br></string>
+    <string name="question_9A">W</string>
+    <string name="question_9B">A</string>
+    <string name="question_9C">P</string>
+    <string name="question_9D">S</string>
+    <string name="answer_9">S</string>
+
+    <string name="question_10">Encode the Morse below:
+     <br>--..
+</br></string>
+    <string name="question_10A">F</string>
+    <string name="question_10B">U</string>
+    <string name="question_10C">Z</string>
+    <string name="question_10D">K</string>
+    <string name="answer_10">Z</string>
+
+    <string name="question_11">Encode the Morse above:
+     <br>College
+</br></string>
+    <string name="question_11A">-.-. --- .-.. .-.. . --. .</string>
+    <string name="question_11B">-.-. --- .-.. .-.. .-</string>
+    <string name="question_11C">-.-. --- .-.. .- --. .</string>
+    <string name="question_11D">-.-. --- .-.. . --. .</string>
+    <string name="answer_11">-.-. --- .-.. .-.. . --. .</string>
+
+    <string name="question_12">Which of the following is used as signal duration in Morse Code?
+    </string>
+    <string name="question_12A">Dash</string>
+    <string name="question_12B">Forward Slash</string>
+    <string name="question_12C">Apostrophe</string>
+    <string name="question_12D">Ampersand</string>
+    <string name="answer_12">Dash</string>
+
+    <string name="question_13">Encode the Morse above:
+     <br>-.. . -... ..- --.
+</br></string>
+    <string name="question_13A">Debug</string>
+    <string name="question_13B">Damage</string>
+    <string name="question_13C">Danger</string>
+    <string name="question_13D">Digital</string>
+    <string name="answer_13">Debug</string>
+
+    <string name="question_14">What is the length of the dot in Morse code?
+     </string>
+    <string name="question_14A">1 Unit</string>
+    <string name="question_14B">7 Units</string>
+    <string name="question_14C">5 Units</string>
+    <string name="question_14D">3 Units</string>
+    <string name="answer_14">3 Units</string>
+
+    <string name="question_15">For which device was Morse code developed for?</string>
+    <string name="question_15A">Telegraphy</string>
+    <string name="question_15B">Stethoscope</string>
+    <string name="question_15C">Telephone</string>
+    <string name="question_15D">SONAR</string>
+    <string name="answer_15">Telegraphy</string>
+
+    <string name="selctedoption">SelectedOption</string>
+    <string name="correctanswer">CorrectAnswer</string>
+
+
+
+</resources>

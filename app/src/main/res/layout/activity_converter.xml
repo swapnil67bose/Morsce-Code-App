@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/conback"
+    android:padding="25dp"
+    tools:context=".converter">
+
+    <View
+        android:id="@+id/bg_top_header"
+        android:layout_width="match_parent"
+        android:layout_height="230dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tvgfg"
+        android:layout_width="370dp"
+        android:layout_height="52dp"
+        android:layout_marginTop="-8dp"
+        android:gravity="center"
+        android:text="Morse Code"
+        android:textAlignment="center"
+        android:textColor="#000"
+        android:textSize="25sp"
+        android:textStyle="italic" />
+
+    <EditText
+        android:id="@+id/etinput"
+        android:layout_width="370dp"
+        android:layout_height="131dp"
+        android:layout_below="@+id/tvgfg"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/border"
+        android:gravity="start"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <!--edit text to accept the input from the user-->
+    <LinearLayout
+        android:id="@+id/llout"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_below="@+id/etinput"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnencode"
+            android:layout_width="115dp"
+            android:layout_height="89dp"
+            android:layout_marginRight="2dp"
+            android:padding="13dp"
+            android:text="EnCode"
+            android:background="@drawable/roundbutton"
+            android:textAlignment="center"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btnclear"
+            android:layout_width="95dp"
+            android:layout_height="89dp"
+            android:layout_marginRight="2dp"
+            android:background="@drawable/roundbutton"
+            android:padding="13dp"
+            android:text="clear"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btndecode"
+            android:layout_width="115dp"
+            android:layout_height="89dp"
+            android:layout_marginRight="2dp"
+            android:background="@drawable/roundbutton"
+            android:padding="13dp"
+            android:text="decode"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <!--edit text to display output to the user.
+        Edit text is used since the user can copy the
+        text easily if he wants to-->
+    <EditText
+        android:id="@+id/etoutput"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/llout"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/border"
+        android:gravity="start"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+</RelativeLayout>

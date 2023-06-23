@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#000000</color>
+    <color name="cardColor">#ffffff</color>
+    <color name="textcardColor">#3f3f3f</color>
+    <color name="purple_500">#00ceb4</color>
+    <color name="purple_700">#00ceb4</color>
+    <color name="white">#ffffff</color>
+    <color name="teal_200">#125E9A</color>
+    <color name="black">#000000</color>
+    <color name="teal_700">#2196F3</color>
+    <color name="purple_200">#2196F3</color>
+
+
+</resources>
